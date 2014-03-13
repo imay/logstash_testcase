@@ -1,0 +1,11 @@
+INPUT and OUTPUT like following
+hello
+{
+    "message" => "hello",
+    "@version" => "1",
+    "@timestamp" => "2014-03-13T05:28:42.077Z",
+    "host" => "zc-ubuntu",
+    "PWD" => "/home/zc/logstash/learn/environment",
+    "term" => "xterm",
+    "nothing" => nil
+}
