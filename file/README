@@ -1,0 +1,4 @@
+if the file has no update, logstash do not handle this file, 
+should touch this file from another term
+
+touch one file named .sincedb in $HOME solve this problem, too.
